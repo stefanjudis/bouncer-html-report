@@ -1,0 +1,22 @@
+{
+  "name": "3rd-party-bouncer-html-report",
+  "version": "0.0.0",
+  "description": "Generated HTML report to measure the impact of 3rd party scriepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanjudis/bouncer-html-report.git"
+  },
+  "keywords": [
+    "performance"
+  ],
+  "author": "stefan judis <stefanjudis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanjudis/bouncer-html-report/issues"
+  },
+  "homepage": "https://github.com/stefanjudis/bouncer-html-report"
+}
